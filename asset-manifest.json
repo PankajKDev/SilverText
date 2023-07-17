@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reaper7531/RapidText.git/static/css/main.f6755e57.css",
+    "main.js": "/Reaper7531/RapidText.git/static/js/main.a3d0f634.js",
+    "static/js/787.0a9a43c4.chunk.js": "/Reaper7531/RapidText.git/static/js/787.0a9a43c4.chunk.js",
+    "index.html": "/Reaper7531/RapidText.git/index.html",
+    "main.f6755e57.css.map": "/Reaper7531/RapidText.git/static/css/main.f6755e57.css.map",
+    "main.a3d0f634.js.map": "/Reaper7531/RapidText.git/static/js/main.a3d0f634.js.map",
+    "787.0a9a43c4.chunk.js.map": "/Reaper7531/RapidText.git/static/js/787.0a9a43c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6755e57.css",
+    "static/js/main.a3d0f634.js"
+  ]
+}
