@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/RapidText/static/css/main.f6755e57.css",
-    "main.js": "/RapidText/static/js/main.245f26c9.js",
-    "static/js/787.0a9a43c4.chunk.js": "/RapidText/static/js/787.0a9a43c4.chunk.js",
-    "index.html": "/RapidText/index.html",
-    "main.f6755e57.css.map": "/RapidText/static/css/main.f6755e57.css.map",
-    "main.245f26c9.js.map": "/RapidText/static/js/main.245f26c9.js.map",
-    "787.0a9a43c4.chunk.js.map": "/RapidText/static/js/787.0a9a43c4.chunk.js.map"
+    "main.css": "/SilverText/static/css/main.f6755e57.css",
+    "main.js": "/SilverText/static/js/main.245f26c9.js",
+    "static/js/787.0a9a43c4.chunk.js": "/SilverText/static/js/787.0a9a43c4.chunk.js",
+    "index.html": "/SilverText/index.html",
+    "main.f6755e57.css.map": "/SilverText/static/css/main.f6755e57.css.map",
+    "main.245f26c9.js.map": "/SilverText/static/js/main.245f26c9.js.map",
+    "787.0a9a43c4.chunk.js.map": "/SilverText/static/js/787.0a9a43c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6755e57.css",
